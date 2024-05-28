@@ -1,0 +1,43 @@
+Privacy Policy for Select English vocabulary
+
+Last updated: 2024/5/28
+
+Your privacy is important to us. This Privacy Policy explains how we collect, use, and share information about you when you use the Cambridge Dictionary Extension ("Extension").
+
+Information We Collect
+1. Information You Provide Directly:
+
+Selected Text: When you select text on a webpage and use the context menu to look up the selected text in a dictionary, we collect that selected text to provide the lookup functionality.
+2. Information Collected Automatically:
+
+Browser Activity: We may collect information about the web pages you visit only in relation to the selected text you choose to look up in the dictionary.
+How We Use the Information
+We use the information we collect to:
+
+Provide dictionary lookup services by using the selected text to search in the chosen dictionary.
+Improve the functionality of the Extension.
+Information Sharing
+We do not share your personal information with third parties except as necessary to perform the core function of the Extension, which is looking up selected text in the dictionary you choose.
+
+Security
+We take reasonable measures to help protect your information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. All data transmissions are encrypted using HTTPS.
+
+Your Choices
+1. Managing Your Information:
+
+You can choose which dictionary to use for lookups within the Extension settings.
+2. Storage:
+
+We use Chrome's storage API to save your selected dictionary and language preferences locally on your device.
+Data Retention
+We retain your preferences (selected dictionary and language) as long as you use the Extension. These preferences can be deleted by uninstalling the Extension.
+
+Changes to this Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: jimmy94870857@gmail.com
+LinkedIn: www.linkedin.com/in/jimmy-lin-8a80302a6
+By using the Cambridge Dictionary Extension, you agree to the collection and use of your information in accordance with this Privacy Policy.
